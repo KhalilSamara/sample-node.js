@@ -1,6 +1,6 @@
 # project
 
-To build and run the image file locally
+To Build and Run the Image
 1. Type `docker build -t app-name .` to build the image
 2. Type `docker run -p 8080:8080 image-name` to deploy image
 
